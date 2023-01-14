@@ -4,8 +4,8 @@
   
     
       <url>
-            <loc>https://jwagriff.github.io/</loc>
-            <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+            <loc>https://jwagriff.work/posts/how-to-fix-unrecognised-blue-yeti/</loc>
+            <lastmod>2022-01-12T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -13,8 +13,8 @@
   
     
       <url>
-            <loc>https://jwagriff.github.io/posts/polybar-build-guide/</loc>
-            <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+            <loc>https://jwagriff.work/</loc>
+            <lastmod>2022-01-12T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -22,8 +22,8 @@
   
     
       <url>
-            <loc>https://jwagriff.github.io/posts/</loc>
-            <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+            <loc>https://jwagriff.work/posts/</loc>
+            <lastmod>2022-01-12T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -31,7 +31,7 @@
   
     
       <url>
-            <loc>https://jwagriff.github.io/authors/</loc>
+            <loc>https://jwagriff.work/authors/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -39,7 +39,7 @@
   
     
       <url>
-            <loc>https://jwagriff.github.io/categories/</loc>
+            <loc>https://jwagriff.work/categories/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -47,7 +47,7 @@
   
     
       <url>
-            <loc>https://jwagriff.github.io/series/</loc>
+            <loc>https://jwagriff.work/series/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>

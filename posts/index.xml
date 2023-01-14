@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on John Griffiths</title>
-    <link>https://jwagriff.github.io/posts/</link>
+    <link>https://jwagriff.work/posts/</link>
     <description>Recent content in Posts on John Griffiths</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jwagriff.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jwagriff.work/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Polybar Build Guide</title>
-      <link>https://jwagriff.github.io/posts/polybar-build-guide/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <title>How To Fix an Unrecognised Blue Yeti</title>
+      <link>https://jwagriff.work/posts/how-to-fix-unrecognised-blue-yeti/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jwagriff.github.io/posts/polybar-build-guide/</guid>
-      <description>This article provides a step-by-step guide on how to assemble the Polybar, a 3D printed Guitar Hero controller. It covers everything from preparing the printed parts to wiring and flashing firmware.</description>
+      <guid>https://jwagriff.work/posts/how-to-fix-unrecognised-blue-yeti/</guid>
+      <description>Has your Blue Yeti suddenly gone unrecognised in Windows? Fear not. This common problem is easily solved after re-flashing the EEPROM. This guide will help you do just that.</description>
     </item>
     
   </channel>

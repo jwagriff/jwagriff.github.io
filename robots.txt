@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jwagriff.github.io/sitemap.xml
+Sitemap: https://jwagriff.work/sitemap.xml
