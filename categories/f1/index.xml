@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F1 on John Griffiths</title>
+    <link>https://jwagriff.work/categories/f1/</link>
+    <description>Recent content in F1 on John Griffiths</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jwagriff.work/categories/f1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F1 Predictions for 2023</title>
+      <link>https://jwagriff.work/posts/f1-predictions-for-2023/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jwagriff.work/posts/f1-predictions-for-2023/</guid>
+      <description>The 2022 F1 season has been over for some time. With the hype for 2023 starting to build, predictions are coming in thick and fast. Here&amp;rsquo;s my two cents.</description>
+    </item>
+    
+  </channel>
+</rss>
